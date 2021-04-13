@@ -1,10 +1,10 @@
 /*************************
- * TP de la Tierra Media *
+ * TP de la tierra media *
  *************************/
 %:- codificacion(utf8).
 
 /* *********************
-* Modelo del Dominio *
+* Modelo del dominio *
 ******************** */
 % Punto 1
 %region(region,zona).
